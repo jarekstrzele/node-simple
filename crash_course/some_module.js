@@ -2,5 +2,4 @@ function send() {
     console.log("sending") ;
 }
 
-
-export  { send }  ;
+module.exports =  { send }  ;
